@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T20:02:21.099Z" agent="5.0 (Macintosh)" etag="nVZGKzv9oDQSDw81QKyo" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-18T20:08:55.541Z" agent="5.0 (Macintosh)" etag="75V37axnZ2MYxAduFqdk" version="17.4.5" type="github">
   <diagram id="LpC_mYqOw3zMSjC3XxB5" name="Page-1">
-    <mxGraphModel dx="1720" dy="4085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="541" dy="1284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
         <mxCell id="QjSxIlXuMoYWdkUnr7uK-21" value="&lt;div align=&quot;left&quot;&gt;error Object that holds all errorMessages happening during use&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="690" y="780" width="300" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="QjSxIlXuMoYWdkUnr7uK-22" value="&lt;div align=&quot;left&quot;&gt;error: {&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;userprofile: { ... },&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;flatprofile: { ... },&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;pictureReferences: { ... }&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;}&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="QjSxIlXuMoYWdkUnr7uK-22" value="&lt;div align=&quot;left&quot;&gt;error: {&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	createError&lt;/span&gt;: { ... },&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;authError: { ... },&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;connectionError: { ... }&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;}&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="744" y="875" width="217" height="150" as="geometry" />
         </mxCell>
         <mxCell id="QjSxIlXuMoYWdkUnr7uK-23" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;authState&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;lt;&amp;lt;any&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#000000;" vertex="1" parent="1">
